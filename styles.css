@@ -73,6 +73,10 @@ input, button:focus {
 	outline: none;
 }
 
+.invert:active {
+	background-color: black;
+	color:white;
+}
 
 
 
